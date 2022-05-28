@@ -1,0 +1,8 @@
+* {
+   padding: 0;
+   margin: 0;
+}
+.pagination {
+   position: relative;
+   margin-left: 90%;
+}
